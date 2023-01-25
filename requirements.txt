@@ -1,2 +1,6 @@
 fastbook
+bqplot
+ipympl
+ipyvolume
+scipy
 voila
